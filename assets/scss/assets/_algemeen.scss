@@ -1,0 +1,108 @@
+html {
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: "heeboblack";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-black-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebobold";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heeboextrabold";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-extrabold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebolight";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebomedium";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-medium-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heeboregular";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebothin";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-thin-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heeboblack";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-black-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebobold";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-bold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heeboextrabold";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-extrabold-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebolight";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-light-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "heebomedium";
+  src: url("/wp-content/themes/crossfitsiargao-theme/font/heebo-medium-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.noise {
+  background:
+    url(https://grainy-gradients.vercel.app/noise.svg);
+  background-color: #6a7652;
+}
+
+.grain {
+  opacity: .1;
+  filter: blur(0.5px);
+  background-image: url(https://uploads-ssl.webflow.com/627002f574f43f3a6c7849f8/627002f574f43f3b31784a79_grain.png);
+  background-position: 0 0;
+  background-size: 1920px;
+  display: block;
+  position: absolute;
+  top: 0%;
+  bottom: 0%;
+  left: 0%;
+  right: 0%;
+}
